@@ -1,10 +1,15 @@
 # Quantum Frontier
 
-Book archive and audiobook for Douglas Burley Johnson.
+Book archive and audiobook. Separate from dglxss.com.
 
 Cover line: `Quantum Frontier: [Title]`.
+Author on the page: Douglxss Burley Johnson.
+Spoken name: Douglas Burley Johnson.
 
-Separate from douglxss.com.
+## Live
+
+- Site: https://quantum-frontier-psi.vercel.app
+- Repo: https://github.com/artistdbjohnson/quantum-frontier
 
 ## Pages
 
@@ -13,4 +18,7 @@ Separate from douglxss.com.
 - `/neo-damascus` present-day novellas
 - `/listen` audiobook + cast
 
-First Water audio lives at `/audio/first-water.mp3`.
+## Audio
+
+First Water looks for `/audio/first-water.mp3`, then `/audio/ark-survey-ch01-v2-leo.mp3`, then `p01`–`p06`.
+Do not commit the 22 MB file through github___push_files. Deploy the binary on Vercel or use the six parts.
