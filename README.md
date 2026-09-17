@@ -1,2 +1,16 @@
-# quantum-frontier
-Quantum Frontier book archive and audiobook. Prequels of the Ark Survey era and present-day Neo-Damascus novellas by Douglas Burley Johnson.
+# Quantum Frontier
+
+Book archive and audiobook for Douglas Burley Johnson.
+
+Cover line: `Quantum Frontier: [Title]`.
+
+Separate from douglxss.com.
+
+## Pages
+
+- `/` catalog
+- `/prequels` Ark Survey era
+- `/neo-damascus` present-day novellas
+- `/listen` audiobook + cast
+
+First Water audio lives at `/audio/first-water.mp3`.
